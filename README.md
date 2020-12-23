@@ -4,7 +4,7 @@
 
 <p align="left"> 
   my name is Everton I am <strong>Front-end Developer</strong>.<br>
-  I am studying System and System Development for Internet.
+  I am studying System Development.
 </p>
 
 <p align="left">
