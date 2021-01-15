@@ -8,7 +8,7 @@
 </p>
 
 <p align="left">
-  ⛩ Skills: <strong>HTML5, CSS3, Angular, Ionic, JavaScript, Node.JS, JAVA, SQL Oracle.</strong>
+  🦄 Skills: <strong>HTML5, CSS3, Angular, Ionic, JavaScript, Node.JS, JAVA, SQL Oracle.</strong>
 </p>
 
 <p align="left">
@@ -20,14 +20,8 @@
 </p>
 
 <p align="left">
-  <a href="mailto:emendesgs@gmail.com" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=iuricodebrasil@gmail.com" /></a>
-
   <a href="https://www.linkedin.com/in/emendesgs" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iuricode" /></a>
-
-  <a href="https://api.whatsapp.com/send?phone=55819952781168&text=Olá%20emendesgs,%20vamos%20conversar?" alt="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5514991653238&text=Olá%20Iuri,%20tudo%20bem?"/></a>
 
   <a href="https://www.facebook.com/em.booodeee/" alt="Facebook">
   <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/iuricode/"/></a>
