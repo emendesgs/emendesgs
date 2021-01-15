@@ -3,16 +3,16 @@
 <img src="https://i.imgur.com/6YoDxTE.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador emendesgs">
 
 <p align="left"> 
-  my name is Everton I am <strong>Front-end Developer</strong>.<br>
-  I am studying System Development.
+  my name is Everton, I am <strong>Fullstack Developer</strong>.<br>
+  I am studying System Development at Estácio de Sá, living in Recife.
 </p>
 
 <p align="left">
-  ⛩ Skills: <strong>HTML5, CSS3, JavaScript, Sass, Bootstrap, Materialize.</strong>
+  ⛩ Skills: <strong>HTML5, CSS3, Angular, Ionic, JavaScript, Node.JS, JAVA, SQL Oracle.</strong>
 </p>
 
 <p align="left">
-  🔧 Tools: <strong>Visual Studio Code, Photoshop, Figma, Adobe XD, Git e GitHub.</strong>
+  🔧 Tools: <strong>Visual Studio Code, Figma, Adobe XD, Git e GitHub.</strong>
 </p>
 
 <p align="left">
