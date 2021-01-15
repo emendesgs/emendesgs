@@ -1,6 +1,6 @@
 ### Hi there 👋,
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador emendesgs">
+<img src="computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador emendesgs">
 
 <p align="left"> 
   my name is Everton, I am <strong>Fullstack Developer</strong>.<br>
