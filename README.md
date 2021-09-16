@@ -8,11 +8,11 @@
 </p>
 
 <p align="left">
-  🦄 Skills: <strong>HTML5, CSS3, Angular, Ionic, JavaScript, Node.JS, JAVA, SQL Oracle.</strong>
+  🦄 Skills: <strong>HTML5, CSS3, Angular, Ionic, TypeScript, Node.JS, JAVA, SQL Oracle.</strong>
 </p>
 
 <p align="left">
-  🔧 Tools: <strong>Visual Studio Code, Figma, Adobe XD, Git e GitHub.</strong>
+  🔧 Tools: <strong>Visual Studio Code, Figma, Git e GitHub.</strong>
 </p>
 
 <p align="left">
