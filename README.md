@@ -3,7 +3,7 @@
 <img src="computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador emendesgs">
 
 <p align="left"> 
-  my name is Everton, I am <strong>Fullstack Developer</strong>.<br>
+  my name is Everton, I am <strong>Software Engineer</strong>.<br>
   I am studying System Development at Estácio de Sá, living in Recife.
 </p>
 
