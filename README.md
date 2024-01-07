@@ -4,7 +4,7 @@
 
 <p align="left"> 
   my name is Everton, I am <strong>Software Engineer</strong>.<br>
-  I'm graduated in System Development at Estácio de Sá, living in São Carlos/SP, native from Recife/PE.
+  Graduated in System Development at Estácio de Sá.
 </p>
 
 <p align="left">
