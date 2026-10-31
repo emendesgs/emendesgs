@@ -19,7 +19,7 @@
     </linearGradient>
 
     <mask id="textureMask">
-      <rect x="420" y="38" width="418" height="150" fill="url(#fadeMask)" />
+      <rect x="420" y="36" width="418" height="152" fill="url(#fadeMask)" />
     </mask>
 
     <!-- Subtle Radial Glow behind nodes -->
@@ -41,51 +41,51 @@
   <circle cx="35" cy="18.5" r="5" fill="#e0af68" />
   <circle cx="50" cy="18.5" r="5" fill="#9ece6a" />
 
-  <!-- Window Console Title -->
-  <text x="420" y="23" font-family="'Fira Code', 'JetBrains Mono', monospace" font-size="11" font-weight="500" fill="#565f89" text-anchor="middle" letter-spacing="0.04em">
+  <!-- Window Console Title (Centered at y=22.5 for optical balance) -->
+  <text x="420" y="22.5" font-family="'Fira Code', 'JetBrains Mono', monospace" font-size="11" font-weight="500" fill="#565f89" text-anchor="middle" letter-spacing="0.04em">
     architecture.config.ts — bash
   </text>
 
   <!-- Right-side Ambient Glow -->
-  <rect x="420" y="37" width="418" height="151" fill="url(#meshGlow)" />
+  <rect x="420" y="36" width="418" height="152" fill="url(#meshGlow)" />
 
   <!-- Right-side Architectural Mesh / Texture -->
   <g mask="url(#textureMask)">
     <!-- Dot Matrix -->
-    <rect x="420" y="37" width="418" height="151" fill="url(#dotMatrix)" />
+    <rect x="420" y="36" width="418" height="152" fill="url(#dotMatrix)" />
 
     <!-- Isometric Architecture Lines & Nodes -->
-    <path d="M 490 155 L 550 115 L 640 115 L 700 75 L 790 75" stroke="#7dcfff" stroke-width="1.2" stroke-dasharray="3 3" opacity="0.55" fill="none" />
-    <circle cx="550" cy="115" r="3" fill="#7dcfff" opacity="0.8" />
-    <circle cx="640" cy="115" r="3" fill="#7aa2f7" opacity="0.8" />
-    <circle cx="700" cy="75" r="3" fill="#bb9af7" opacity="0.8" />
+    <path d="M 490 152 L 550 112 L 640 112 L 700 72 L 790 72" stroke="#7dcfff" stroke-width="1.2" stroke-dasharray="3 3" opacity="0.55" fill="none" />
+    <circle cx="550" cy="112" r="3" fill="#7dcfff" opacity="0.8" />
+    <circle cx="640" cy="112" r="3" fill="#7aa2f7" opacity="0.8" />
+    <circle cx="700" cy="72" r="3" fill="#bb9af7" opacity="0.8" />
 
-    <path d="M 520 80 L 590 80 L 650 140 L 760 140 L 805 105" stroke="#bb9af7" stroke-width="1.2" opacity="0.4" fill="none" />
-    <circle cx="590" cy="80" r="2.5" fill="#bb9af7" opacity="0.7" />
-    <circle cx="650" cy="140" r="2.5" fill="#9ece6a" opacity="0.7" />
-    <circle cx="760" cy="140" r="2.5" fill="#7dcfff" opacity="0.7" />
+    <path d="M 520 78 L 590 78 L 650 138 L 760 138 L 805 102" stroke="#bb9af7" stroke-width="1.2" opacity="0.4" fill="none" />
+    <circle cx="590" cy="78" r="2.5" fill="#bb9af7" opacity="0.7" />
+    <circle cx="650" cy="138" r="2.5" fill="#9ece6a" opacity="0.7" />
+    <circle cx="760" cy="138" r="2.5" fill="#7dcfff" opacity="0.7" />
 
-    <line x1="640" y1="115" x2="650" y2="140" stroke="#7aa2f7" stroke-width="1" stroke-dasharray="2 2" opacity="0.4" />
-    <line x1="590" y1="80" x2="640" y2="115" stroke="#7dcfff" stroke-width="1" stroke-dasharray="2 2" opacity="0.35" />
+    <line x1="640" y1="112" x2="650" y2="138" stroke="#7aa2f7" stroke-width="1" stroke-dasharray="2 2" opacity="0.4" />
+    <line x1="590" y1="78" x2="640" y2="112" stroke="#7dcfff" stroke-width="1" stroke-dasharray="2 2" opacity="0.35" />
   </g>
 
   <!-- Left Side: Brand Logo (Exact portfolio colors: white e, cyan >, white erton, blue .dev) -->
-  <text x="36" y="76" font-family="'Fira Code', 'JetBrains Mono', Courier, monospace" font-size="16" font-weight="700">
+  <text x="36" y="73" font-family="'Fira Code', 'JetBrains Mono', Courier, monospace" font-size="15" font-weight="700">
     <tspan fill="#ffffff">e</tspan><tspan fill="#7dcfff" font-weight="800">&gt;</tspan><tspan fill="#ffffff">erton</tspan><tspan fill="#7aa2f7" font-weight="600">.dev</tspan>
   </text>
 
   <!-- Name -->
-  <text x="36" y="112" font-family="-apple-system, BlinkMacSystemFont, 'Inter', 'Segoe UI', sans-serif" font-size="27" font-weight="800" fill="#ffffff" letter-spacing="-0.025em">
+  <text x="36" y="108" font-family="-apple-system, BlinkMacSystemFont, 'Inter', 'Segoe UI', sans-serif" font-size="27" font-weight="800" fill="#ffffff" letter-spacing="-0.025em">
     Everton Mendes
   </text>
 
   <!-- Role Subtitle -->
-  <text x="36" y="142" font-family="-apple-system, BlinkMacSystemFont, 'Inter', 'Segoe UI', sans-serif" font-size="15" font-weight="600" fill="#7aa2f7">
+  <text x="36" y="137" font-family="-apple-system, BlinkMacSystemFont, 'Inter', 'Segoe UI', sans-serif" font-size="15" font-weight="600" fill="#7aa2f7">
     IT Specialist &amp; Senior Software Engineer
   </text>
 
   <!-- Subtitle Core Focus -->
-  <text x="36" y="167" font-family="-apple-system, BlinkMacSystemFont, 'Inter', 'Segoe UI', sans-serif" font-size="13" font-weight="400" fill="#a9b1d6" letter-spacing="-0.01em">
+  <text x="36" y="163" font-family="-apple-system, BlinkMacSystemFont, 'Inter', 'Segoe UI', sans-serif" font-size="13" font-weight="400" fill="#a9b1d6" letter-spacing="-0.01em">
     Angular Ecosystem (Signals/RxJS) · Micro-frontends (Module Federation) · Enterprise Design Systems
   </text>
 </svg>
